@@ -1,0 +1,7 @@
+{
+  "name": "SketchFlow AI",
+  "description": "A comprehensive creative suite to turn scripts into pencil-sketch storyboards and animated videos with AI-generated dialogue and background music.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
